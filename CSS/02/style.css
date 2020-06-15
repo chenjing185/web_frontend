@@ -1,0 +1,8 @@
+.mr-contet .mr-block:hover{
+    opacity: 0.5;
+    color: #000;
+}
+nav .mr-li:hover{
+    background: #646464;
+    color: #FFF;
+}
