@@ -1,0 +1,27 @@
+.mr-box{
+    width: 421px;
+    height: 480px;
+    margin: 0 auto;
+    background: no-repeat url(img/Default.jpg); 
+    background-size: 220px 254px;
+}
+/*设置第一部分文字的样式*/
+.mr-shadow{
+    margin-left: 100px;
+    color: #dc1844;
+    font: 900 64px/64px sans-serif;
+    text-shadow: -1px 0 0 #0a0a0a, -4px 0 0 #6f3b7b, -6px 0 0 #080808, -8px 0 #121ff1;
+}
+.mr-shadow font{
+    font-size: 30px;
+}
+.mr-shadow1{
+    color: #6C0305;
+    margin-top: 264px;
+    font: 100 54px/64px '黑体';
+    text-shadow: 0 -1px 0 #ca3636,0 2px 0 #ea1414,2px -2px 1px 
+    #c3d259,-2px 2px 15px #674242;
+}
+.mr-shadow1 font{
+    font-size: 35px;
+}
